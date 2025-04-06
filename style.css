@@ -68,3 +68,13 @@ section b::after {
 }
   
   
+/**/
+img {
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+img:hover {
+  transform: scale(1.2); /* מגדיל את התמונה ב־20% */
+  z-index: 2;
+}

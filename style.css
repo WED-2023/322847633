@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*ד*/
 #top-bar {
 	height: 50px;
@@ -77,4 +78,12 @@ img {
 img:hover {
   transform: scale(1.2); /* מגדיל את התמונה ב־20% */
   z-index: 2;
+=======
+#menu
+{
+	position: fixed;
+	width: 100%;
+	height: 35px;
+	background: white;
+>>>>>>> 716f1f14383854a1e9883702872ee8a3ff584ae3
 }
